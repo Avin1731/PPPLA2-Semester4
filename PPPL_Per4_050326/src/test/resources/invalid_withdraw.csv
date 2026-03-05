@@ -1,0 +1,5 @@
+initialDeposit,withdraw,exceptionType
+10000,15000,InsufficientFundsException
+10000,0,IllegalArgumentException
+10000,-1000,IllegalArgumentException
+0,1000,InsufficientFundsException
